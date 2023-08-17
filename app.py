@@ -229,7 +229,7 @@ Last instructions:
 The twitter thread should be between the length of 3 and 10 tweets 
 Each tweet should start with (tweetnumber/total length)
 Dont overuse hashtags, only one or two for entire thread.
-Use links sparingly and only when really needed, but when you do make sure you actually include them! 
+Use links sparingly and only when really needed, but when you do make sure you actually include them AND ONLY PUT THE LIN, dont put brackets around them. 
 Only return the thread, no other text, and make each tweet its own paragraph.
 Make sure each tweet is lower that 220 chars
     Topic Headline:{topic}
