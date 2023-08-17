@@ -209,14 +209,14 @@ Varied Sentence Lengths: Use a mix of succinct points for emphasis and longer ex
 Descriptive Sentences: Instead of directive sentences, use descriptive ones to provide information. E.g., "Choosing a topic can lead to..."
 4. Transition Style:
 Sequential and Logical: Guide the reader through information or steps in a clear, logical sequence.
-Visual Emojis: Emojis can still be used as visual cues, but opt for ones like ℹ️ for informational points or ➡️ to denote a continuation.
+Visual Emojis: Emojis can still be used as visual cues
 5. Rhythm and Pacing:
 Steady Flow: Ensure a smooth flow of information, transitioning seamlessly from one point to the next.
 Data and Sources: Introduce occasional statistics, study findings, or expert opinions to bolster claims, and offer links or references for deeper dives.
 6. Signature Styles:
 Intriguing Introductions: Start tweets or threads with a captivating fact, question, or statement to grab attention.
 Question and Clarification Format: Begin with a general question or statement and follow up with clarifying information. E.g., "Why is sleep crucial? A study from XYZ University points out..."
-Use of '➡️' for Continuation: Indicate that there's more information following, especially useful in threads.
+
 Engaging Summaries: Conclude with a concise recap or an invitation for further discussion to keep the conversation going.
 Distinctive Indicators for an Informational Twitter Style:
 
