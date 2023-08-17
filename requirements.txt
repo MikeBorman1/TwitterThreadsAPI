@@ -8,3 +8,4 @@ requests_oauthlib
 tweepy==4.14.0
 uvicorn
 openai
+tiktoken
