@@ -6,3 +6,4 @@ python-dotenv==1.0.0
 Requests
 requests_oauthlib
 tweepy==4.14.0
+uvicorn
